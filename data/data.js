@@ -29,7 +29,7 @@ export const data = [
             'To have',
             'To do',
             'To eat',
-            'To swimm'
+            'To swim'
         ],
         answer: 'To do',
     },
